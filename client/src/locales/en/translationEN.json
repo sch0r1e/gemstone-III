@@ -1,0 +1,14 @@
+{
+    "orderSuccessMessage":"Your Order in process. Wait 2 days to deliver.",
+    "shop":"Shop",
+    "blog":"Blog",
+    "contactUs":"Contact us",
+    "myOrders":"My Orders",
+    "myAccount":"My Account",
+    "myWishlist":"My Wishlist",
+    "settings":"Settings",
+    "logout":"Logout",
+    "shopNow":"Shop now",
+    "adminPanel":"Admin Panel",
+    "pleaseWaitUntilFinish":"Please wait until finish"
+}
